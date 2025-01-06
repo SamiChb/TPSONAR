@@ -1,0 +1,5 @@
+pizzas.Pizza#formattedIngredients()Ljava/lang/String;
+false
+5247c406cfa5df10df8a1af00618e29b
+==
+getNom pizzas.Ingredient#getNom()Ljava/lang/String;

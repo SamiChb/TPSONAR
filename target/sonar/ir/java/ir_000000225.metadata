@@ -1,0 +1,5 @@
+pizzas.BasePizzas#getPizzaFromMenu(Ljava/lang/String;)Lpizzas/Pizza;
+false
+5611544d34ca4d8249d0e65c8e7cc1e5
+==
+get java.util.HashMap#get(Ljava/lang/Object;)Ljava/lang/Object;

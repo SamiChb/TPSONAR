@@ -1,0 +1,8 @@
+pizzas.Pizza#veganize()V
+false
+1696400b8cca197c37ffe52ff73b44fb
+==
+get java.util.List#get(I)Ljava/lang/Object;
+isVegetarien pizzas.Ingredient#isVegetarien()Z
+remove java.util.List#remove(I)Ljava/lang/Object;
+size java.util.List#size()I

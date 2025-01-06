@@ -1,0 +1,6 @@
+pizzas.BasePizzas#addPizzaToMenu(Lpizzas/Pizza;)V
+false
+a7fb0af95c41f3874f0b10edd6b46e24
+==
+getNom pizzas.Pizza#getNom()Ljava/lang/String;
+put java.util.HashMap#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;

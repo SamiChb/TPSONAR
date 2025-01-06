@@ -1,0 +1,7 @@
+organization=samichb
+projectKey=SamiChb_TPSONAR
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58807
+dashboardUrl=https://sonarcloud.io/dashboard?id=SamiChb_TPSONAR
+ceTaskId=AZQ6iQB1iL1aUyXe5M8N
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZQ6iQB1iL1aUyXe5M8N

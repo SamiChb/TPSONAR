@@ -1,0 +1,27 @@
+
+.pizzas.Pizza#ingredients()[Lpizzas/Ingredient;K
+A/home/e20220006660/L3/AGL/TPSONAR/src/main/java/pizzas/Pizza.javaR R( "1*Ó
+1S	 S(g
+e
+S	 S(
+%0java.util.List"__id*=
+
+__unknown_file (!*
+pizzas.Pizza"
+composition<:
+S S(.
+%1pizzas.Ingredient[]"pizzas.Ingredient[]óð
+S	 S(/
+%2pizzas.Ingredient[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*2
+
+__unknown_file (
+
+%0java.util.List*7
+
+__unknown_file (
+
+%1pizzas.Ingredient[]2toArray([Ljava/lang/Object;)"'
+S S(0
+
+%2pizzas.Ingredient[]B
+pizzas.PizzaH

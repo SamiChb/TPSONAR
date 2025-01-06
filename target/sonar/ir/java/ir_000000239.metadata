@@ -1,0 +1,6 @@
+pizzas.Pizza#ajoutIngredient(Lpizzas/Ingredient;)V
+false
+eb6de292803e00f354efc6ffe43c4a32
+==
+add java.util.List#add(Ljava/lang/Object;)Z
+contains java.util.List#contains(Ljava/lang/Object;)Z

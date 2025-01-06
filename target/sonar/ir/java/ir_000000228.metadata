@@ -1,0 +1,11 @@
+pizzas.BasePizzas#pizzasWithMissingIngredient()Ljava/util/List;
+false
+e688897b8ad565ca9a3c06be661ac914
+java.lang.String#startsWith(Ljava/lang/String;)Z
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+add java.util.ArrayList#add(Ljava/lang/Object;)Z
+equals pizzas.Ingredient#equals(Lpizzas/Ingredient;)Z
+getNom pizzas.Pizza#getNom()Ljava/lang/String;
+values java.util.HashMap#values()Ljava/util/Collection;
