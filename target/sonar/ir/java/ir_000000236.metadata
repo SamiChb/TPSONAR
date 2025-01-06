@@ -1,6 +1,0 @@
-pizzas.Pizza#estBlanche()Z
-false
-aba41c4cebe8e4161eca2ae9a863bfed
-java.lang.String#equals(Ljava/lang/Object;)Z
-==
-getNom pizzas.Ingredient#getNom()Ljava/lang/String;

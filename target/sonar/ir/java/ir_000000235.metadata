@@ -1,6 +1,0 @@
-pizzas.Pizza#estRouge()Z
-false
-105abefb7b69b6af7a4d3c9ba1096ce5
-java.lang.String#equals(Ljava/lang/Object;)Z
-==
-getNom pizzas.Ingredient#getNom()Ljava/lang/String;

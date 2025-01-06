@@ -1,5 +1,0 @@
-pizzas.Pizza#ingredients()[Lpizzas/Ingredient;
-false
-db8478e534525268d89244ccd6c6e7dd
-==
-toArray java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;

@@ -1,7 +1,0 @@
-pizzas.Pizza#equals(Ljava/lang/Object;)Z
-false
-c1483f8c61bd50d934c9590698e4ad8c
-java.lang.String#equals(Ljava/lang/Object;)Z
-==
-getNom pizzas.Pizza#getNom()Ljava/lang/String;
-getPrix pizzas.Pizza#getPrix()F

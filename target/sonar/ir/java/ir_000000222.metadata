@@ -1,8 +1,0 @@
-pizzas.BasePizzas#initIngredients()V
-false
-9cd7978b5092b3da9ecbb93a662b5807
-java.util.List#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/List;
-pizzas.Ingredient#<init>(Ljava/lang/String;Z)V
-pizzas.Ingredient#instance-init#
-==
-addAll java.util.ArrayList#addAll(Ljava/util/Collection;)Z

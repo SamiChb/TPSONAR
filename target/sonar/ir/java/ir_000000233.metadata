@@ -1,6 +1,0 @@
-pizzas.Ingredient#equals(Lpizzas/Ingredient;)Z
-false
-195d90143210d051bc7e4d54cc7143fa
-java.lang.String#equals(Ljava/lang/Object;)Z
-==
-getNom pizzas.Ingredient#getNom()Ljava/lang/String;
